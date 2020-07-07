@@ -4,6 +4,7 @@
 ##### Vậy là cũng đã gần ~3 năm kể từ khi mình không cập nhật bản việt hóa mới nữa, ngay cả bạn cũng sẽ thấy được sự thay đổi cực lớn này ở trang chính của plugin! Bản hiện tại đã có gần hơn 90 cái Custom Enchants, Enchanted Custom Enchant Book và hỗ trợ thêm khá nhiều plugin và virions như: PiggyCustomEnchantsShop, PCEAllyChecks, PCEBookShop, EnchantUI, EasyKits, Commando, FormAPI... bla bla và mấy ông tự lên check nhá :D
 ##### Phải nói là mình thật sự SỐC @@ Vì vậy mình khuyên các bạn, NÊN tải plugin chính về xài, vừa ít lỗi, vừa nhiều tính năng mới hay ho :)
 ##### Nói thì nói vậy thôi, chút xíu mình lên commit một cái multi language cho việt hóa đỡ vất vả :(
+`MẸO: Bạn lười việt hóa ư? Plugin này là một bản việt hóa CÓ SẴN dành cho ông bạn đấy :) Cách làm như thế nào thì tự biết nhé, lớn đến từng này rồi mà không biết copy paste thì tui chịu :<`
 <h1>PiggyCustomEnchantsVN<img src="https://github.com/DaPigGuy/PiggyCustomEnchants/blob/master/resources/PCE_Icon.png" height="64" width="64" align="left"></img></h1>
 
 + Plugin PiggyCustomEnchants dành cho người Việt! Đã được việt hóa 100%.
