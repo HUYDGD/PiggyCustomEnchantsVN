@@ -1,0 +1,40 @@
+# config.yml được việt hóa bởi Sói
+#,-.----.
+#\    /  \                                           ,----..      ,---,.
+#|   :    \   ,--,                                  /   /   \   ,'  .' |
+#|   |  .\ :,--.'|                                 |   :     :,---.'   |
+#.   :  |: ||  |,     ,----._,.  ,----._,.         .   |  ;. /|   |   .'
+#|   |   \ :`--'_    /   /  ' / /   /  ' /     .--,.   ; /--` :   :  |-,
+#|   : .   /,' ,'|  |   :     ||   :     |   /_ ./|;   | ;    :   |  ;/|
+#;   | |`-' '  | |  |   | .\  .|   | .\  ., ' , ' :|   : |    |   :   .'
+#|   | ;    |  | :  .   ; ';  |.   ; ';  /___/ \: |.   | '___ |   |  |-,
+#:   ' |    '  : |__'   .   . |'   .   . |.  \  ' |'   ; : .'|'   :  ;/|
+#:   : :    |  | '.'|`---`-'| | `---`-'| | \  ;   :'   | '/  :|   |    \
+#|   | :    ;  :    ;.'__/\_: | .'__/\_: |  \  \  ;|   :    / |   :   .'
+#`---'.|    |  ,   / |   :    : |   :    :   :  \  \\   \ .'  |   | ,'
+#  `---`     ---`-'   \   \  /   \   \  /     \  ' ; `---`    `----'
+#                      `--`-'     `--`-'       `--`
+
+# Tùy chỉnh màu cho Enchants tùy vào độ hiếm
+# Danh sách màu có thể dùng :
+# black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, and white.
+color:
+  common: yellow
+  uncommon: blue
+  rare: gold
+  mythic: light_purple
+# true/false để bật/tắt tính năng (UIs) FormAPI bởi Jojoe77777. Yêu cầu cài plugin FormAPI tại đây : http://123link.pw/1v62p
+forms:
+  enabled: false
+# Vô hiệu hóa để ngăn chặn lửa lan từ Blaze Enchants. (Khuyên các bạn nên để false)
+blaze:
+  flames: false
+# Drop vật phẩm khi giết vật/người từ Chicken Enchant. Mẫu: ("id:meta:số lượng"). Nếu lượng drop nhiều, plugin sẽ tự chọn ngẫn nhiên <3 VD : ["266:0:1", "264:0:64"]
+chicken:
+  rare-drop: ["266:0:1"]
+# Nếu bạn để trống phần này, vật phẩm có Enchant Jetpack sẽ có thể bay bất kì nơi nào trong server, ngược lại khi điền tên world, Jetpack sẽ không thể bay ở world đó, VD : ["PvPArena", "AnotherWorld"]
+jetpack:
+  disabled: []
+# Vô hiệu hóa để ngăn chặn lửa lan từ Lightning Enchants. (Khuyên các bạn nên để false)
+lightning:
+  flames: false
