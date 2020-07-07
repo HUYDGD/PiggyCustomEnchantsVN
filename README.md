@@ -22,6 +22,8 @@
 3. Chạy lệnh ```stop``` trên CONSOLE và bật lại server.
 4. XONG!!!
 
+#### + Nhớ cài thêm ```FormAPI``` để PiggyCustomEnchants hoạt động trơn tru.
+
 # Thông báo
 ##### Đã cập nhật vào: 20/5/2018.
 ##### Phiên bản: v1.1.3 (VIETNAMESE VERSION)
